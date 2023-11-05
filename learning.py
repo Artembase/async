@@ -19,3 +19,4 @@ async def main():
     await task_2
 
 asyncio.run(main())
+#показал пашку
